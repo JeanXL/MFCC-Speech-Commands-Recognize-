@@ -1,8 +1,8 @@
 # MFCC-Speech-Commands-Recognize-
-## Speech Commands Recognize Based On MFCC Features
-## You can downlaod Google speech commands dataset from "http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz"
-## I olny use four commands "no","off","on","yes".Let's call them 0, 1, 2, 3
-## Your Tensorflow version must than 2.0.Using TFRecord file for train datas.
-## It's only a simple example for speech commands recognize based on MFCC, using a cnn model.
-## If you have some question, you can contact with me.WeChat:xuelei_jian
+1. Speech Commands Recognize Based On MFCC Features  
+2. You can downlaod Google speech commands dataset from "http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz"  
+3. I olny use four commands "no","off","on","yes".Let's call them 0, 1, 2, 3  
+4. Your Tensorflow version must than 2.0.Using TFRecord file for train datas.  
+5. It's only a simple example for speech commands recognize based on MFCC, using a cnn model.  
+6. If you have some question, you can contact with me.WeChat:xuelei_jian  
 
